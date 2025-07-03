@@ -1,0 +1,32 @@
+
+# Node modules (dependencies)
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+.vite/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables (for future use)
+.env
+.env.local
+.env.*.local
+
+# Editor and OS settings
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json  # keep VSCode recommended extensions
+
+# Backup and temp files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
