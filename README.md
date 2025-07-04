@@ -1,17 +1,29 @@
-<<<<<<< HEAD
-# React + Vite
+# 🛒 Mini E-commerce Cart App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive mini e-commerce web application built using **React**, **Redux Toolkit**, and **Tailwind CSS**.  
+This project displays products fetched from the [Fake Store API](https://fakestoreapi.com/) and allows users to add or remove items from a shopping cart. It also provides a cart summary including total items and total amount.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# ecommerce-cart-app
-A modern e-commerce frontend built with React, Redux Toolkit, and Tailwind CSS. It features dynamic product listings from the Fake Store API, real-time cart management, and a summary view showing total items and total price.
->>>>>>> b1e626b3f1a9ee51973078eb386c4713c725d2c0
+**Frontend:**  
+- ⚛️ React  
+- 🧰 Redux Toolkit (state management)  
+- 🎨 Tailwind CSS (styling)  
+- ⚡ Vite (build tool)
+
+**API:**  
+- 🛍️ [Fake Store API](https://fakestoreapi.com/) – for product data
+
+**Deployment:**  
+- ▲ Vercel (for hosting)
+
+
+## 📛 Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-18.x-blue)](https://reactjs.org/)
+[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%5Ev1.9-purple)](https://redux-toolkit.js.org/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.x-38b2ac?logo=tailwindcss)](https://tailwindcss.com/)
+[![Vite](https://img.shields.io/badge/Vite-React-646cff?logo=vite)](https://vitejs.dev/)
