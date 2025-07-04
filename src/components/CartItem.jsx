@@ -1,6 +1,6 @@
 import { AiFillDelete } from "react-icons/ai";
 import { useDispatch } from "react-redux";
-import { remove } from "../redux/Slices/CartSlice";
+import { remove } from "../redux/slices/CartSlice";
 import { toast } from "react-hot-toast";
 
 const CartItem = ({ item, itemIndex }) => {
